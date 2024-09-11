@@ -1,2 +1,3 @@
-# Basic-C-Project
-This repo contains basic level projects made by using C++ Programming language.
+# Basic-Clock 
+
+This is a basic digital clock program written in C++ Programming Language.
